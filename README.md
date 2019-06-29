@@ -1,2 +1,2 @@
 # bootstrapexample
-An website example using bootstrap
+An website example uing bootstrap
